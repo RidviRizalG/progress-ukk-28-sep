@@ -1,0 +1,57 @@
+DAFTAR AKUN - Aplikasi Pengaduan Sarana Prasarana
+Sumber : DATABASE/sarana_prasaranarpl4.sql (database: sarana_prasaranarpl4)
+Login  : halaman login yang sama untuk admin dan siswa (kolom 'Login').
+Catatan: password tersimpan sebagai teks biasa (belum di-hash).
+
+============================================================================
+ADMIN (20 akun)  ->  login pakai USERNAME
+============================================================================
+ID   Username        Password          Role                  Nama
+----------------------------------------------------------------------------
+101  admin1          admin54321        Kepala Sekolah        Lugh Tuatha De, S.Kom
+102  admin2          ridvi123          Petugas Sarpras       Ridvi Rizal Ghazwan, S.Ars
+103  admin_budi      pass103_budi      Koordinator Sarpras   Budi Santoso, S.T.
+104  admin_siti      pass104_siti      Petugas Sarpras       Siti Rahmawati, S.Pd
+105  admin_ahmad     pass105_ahmad     Koordinator Sarpras   Ahmad Dahlan, M.T.
+106  admin_dewi      pass106_dewi      Petugas Sarpras       Dewi Lestari, S.Kom
+107  admin_eko       pass107_eko       Petugas Sarpras       Eko Prasetyo, A.Md
+108  admin_fajar     pass108_fajar     Petugas Sarpras       Fajar Nugraha, S.T.
+109  admin_gita      pass109_gita      Koordinator Sarpras   Gita Gutawa, S.Pd
+110  admin_hendra    pass110_hendra    Petugas Sarpras       Hendra Wijaya, S.T.
+111  admin_indah     pass111_indah     Petugas Sarpras       Indah Permata, A.Md
+112  admin_joko      pass112_joko      Petugas Sarpras       Joko Susilo, S.Kom
+113  admin_kartika   pass113_kartika   Koordinator Sarpras   Kartika Putri, S.Pd
+114  admin_lukman    pass114_lukman    Petugas Sarpras       Lukman Hakim, M.Pd
+115  admin_maya      pass115_maya      Petugas Sarpras       Maya Soraya, A.Md
+116  admin_naufal    pass116_naufal    Petugas Sarpras       Naufal Rizky, S.T.
+117  admin_olivia    pass117_olivia    Petugas Sarpras       Olivia Zalianty, S.Kom
+118  admin_putra     pass118_putra     Petugas Sarpras       Putra Utama, S.T.
+119  admin_qori      pass119_qori      Petugas Sarpras       Qori Sandioriva, S.Pd
+120  admin_rizky     pass120_rizky     Petugas Sarpras       Rizky Febian, A.Md
+
+============================================================================
+SISWA (20 akun)  ->  login pakai NIS
+============================================================================
+NIS   Password      Kelas       Nama
+----------------------------------------------------------------------------
+201   siswa1234     XII RPL 1   Killua Zoldyck
+202   siswa4321     XII RPL 2   Allen Haelwol
+203   pass203       XII RPL 1   Cain Von Silford
+204   pass204       XII RPL 2   Kaoruko Waguri
+205   pass205       XI TKJ 1    Marin Kitagawa
+206   pass206       XI TKJ 2    Dion Pratama
+207   pass207       X MM 1      Erika Putri
+208   pass208       X MM 2      Farma De Medicis
+209   pass209       XII RPL 1   Gilang Ramadhan
+210   pass210       XII RPL 2   Hani Puspita
+211   pass211       XI DKV 1    Irfan Syahputra
+212   pass212       XI DKV 2    Jessica Mila
+213   pass213       X RPL 1     Kevin Sanjaya
+214   pass214       X RPL 2     Larasati Putri
+215   pass215       XI TKJ 1    Muhammad Rizky
+216   pass216       XI TKJ 2    Nadia Vega
+217   pass217       XII DKV 1   Oky Setiana
+218   pass218       XII DKV 2   Panji Petualang
+219   pass219       X TKJ 1     Qabil Hidayat
+220   pass220       X TKJ 2     Rania Salsabila
+331   zimam1902     X DKV 1     Muhammad Khairul Zimam Raqilla
